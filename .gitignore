@@ -1,0 +1,64 @@
+# ============================
+# Firebase
+# ============================
+GoogleService-Info.plist
+GoogleService-Info.plist
+
+# ============================
+# Xcode
+# ============================
+*.xcuserstate
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# ============================
+# macOS
+# ============================
+.DS_Store
+*.swp
+*.lock
+*.tmp
+*.log
+Thumbs.db
+
+# ============================
+# iOS
+# ============================
+Podfile.lock
+Pods/
+*.ipa
+*.dSYM.zip
+*.app
+
+# ============================
+# Keys / secrets
+# ============================
+*.pem
+*.p12
+*.mobileprovision
+*.cer
+.env
+.keys.json
+secrets.json
+
+# ============================
+# IDE
+# ============================
+.idea/
+.vscode/
+*.iml
+
+# ============================
+# Build
+# ============================
+build/
+DerivedData/
+*.hmap
+*.ipa
